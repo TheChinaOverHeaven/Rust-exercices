@@ -1,0 +1,18 @@
+[package]
+name = "exercicios"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[[bin]]
+name = "ex001"
+path = "src/ex/ex001.rs"
+
+[[bin]]
+name = "ex002"
+path = "src/ex/ex002.rs"
+
+[dependencies]
