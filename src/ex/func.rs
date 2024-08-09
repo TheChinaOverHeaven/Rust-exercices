@@ -5,3 +5,5 @@ pub fn input(var: &mut String) {
         .read_line(var)
         .expect("Error: can't read!");
 }
+
+/* used to export functions to other file *.rs */
