@@ -15,4 +15,16 @@ path = "src/ex/ex001.rs"
 name = "ex002"
 path = "src/ex/ex002.rs"
 
+[[bin]]
+name = "ex003"
+path = "src/ex/ex003.rs"
+
+[[bin]]
+name = "ex004"
+path = "src/ex/ex004.rs"
+
+[[bin]]
+name = "ex005"
+path = "src/ex/ex005.rs"
+
 [dependencies]
