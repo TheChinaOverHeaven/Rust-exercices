@@ -26,5 +26,12 @@ path = "src/ex/ex004.rs"
 [[bin]]
 name = "ex005"
 path = "src/ex/ex005.rs"
+[[bin]]
+name = "ex006"
+path = "src/ex/ex006.rs"
+
+[[bin]]
+name = "ex007"
+path = "src/ex/ex007.rs"
 
 [dependencies]
