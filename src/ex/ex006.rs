@@ -1,4 +1,4 @@
-/* Make a 1st grade function calculator */
+/* Make a 1st-degree function calculator */
 mod func;
 use func::input;
 
