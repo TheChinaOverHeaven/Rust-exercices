@@ -34,4 +34,13 @@ path = "src/ex/ex006.rs"
 name = "ex007"
 path = "src/ex/ex007.rs"
 
+[[bin]]
+name = "ex008"
+path = "src/ex/ex008.rs"
+
+[[bin]]
+name = "ex009"
+path = "src/ex/ex009.rs"
+
 [dependencies]
+dialoguer = "0.11.0"
