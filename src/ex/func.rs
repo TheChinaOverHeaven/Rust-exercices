@@ -11,3 +11,5 @@ pub fn input(var: &mut String) {
 }
 
 /* used to export functions to other file .rs */
+/* 09/20/2024:
+file dont useful anymore, i will only user dialoguer from now */
