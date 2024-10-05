@@ -42,5 +42,20 @@ path = "src/ex/ex008.rs"
 name = "ex009"
 path = "src/ex/ex009.rs"
 
+[[bin]]
+name = "ex010"
+path = "src/ex/ex010.rs"
+
+[[bin]]
+name = "ex011"
+path = "src/ex/ex011.rs"
+
+[[bin]]
+name = "ex012"
+path = "src/ex/ex012.rs"
+[[bin]]
+name = "ex013"
+path = "src/ex/ex013.rs"
+
 [dependencies]
 dialoguer = "0.11.0"
